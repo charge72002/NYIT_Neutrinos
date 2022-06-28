@@ -1,0 +1,12 @@
+echo "### cleaning" ;
+make clean ;
+rm -rf neutrinosminAone_*pp ;
+
+echo "### Running original_minaone.py" ;
+python original_minaone.py ;
+
+echo "### making" ;
+make ;
+
+echo "### Running ./neutrinos_cpp" ;
+./neutrinos_cpp ;
