@@ -1,0 +1,58 @@
+60950
+0
+5.7047399999999996
+0
+./P1zA_.txt
+./P2zA_.txt
+./P3zA_.txt
+./P4zA_.txt
+./P5zA_.txt
+./P6zA_.txt
+./P7zA_.txt
+./P8zA_.txt
+./r_.txt
+./BC1_1only.txt
+./BC2_1only.txt
+./BC3_1only.txt
+./BC4_1only.txt
+./BC5_1only.txt
+./BC6_1only.txt
+./BC7_1only.txt
+./BC8_1only.txt
+./BCFonly.txt
+./Xi1_.txt
+./Xi2_.txt
+./Xi3_.txt
+./Xi4_.txt
+./Xi5_.txt
+./Xi6_.txt
+./Xi7_.txt
+./Xi8_.txt
+./Vmatt_.txt
+-1.,1.,1e-3, P1x
+-1.,1.,1e-3, P1y
+-1.,1.,1e-3, P1z
+-1.,1.,1e-3, P2x
+-1.,1.,1e-3, P2y
+-1.,1.,1e-3, P2z
+-1.,1.,1e-3, P3x
+-1.,1.,1e-3, P3y
+-1.,1.,1e-3, P3z
+-1.,1.,1e-3, P4x
+-1.,1.,1e-3, P4y
+-1.,1.,1e-3, P4z
+-1.,1.,1e-3, P5x
+-1.,1.,1e-3, P5y
+-1.,1.,1e-3, P5z
+-1.,1.,1e-3, P6x
+-1.,1.,1e-3, P6y
+-1.,1.,1e-3, P6z
+-1.,1.,1e-3, P7x
+-1.,1.,1e-3, P7y
+-1.,1.,1e-3, P7z
+-1.,1.,1e-3, P8x
+-1.,1.,1e-3, P8y
+-1.,1.,1e-3, P8z
+0.,400000., 1e1, r
+#
+2,1,35
