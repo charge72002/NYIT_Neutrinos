@@ -1,0 +1,13 @@
+50
+0
+2
+0
+./BC.txt
+./ydata.txt
+./r_.txt
+# permitted search ranges (min, max, rf0)
+0., 10000., 1., yy
+0., 102., 1., rr
+# min/max model parameter (no anneal)
+# alpha, beta min, beta max
+2,1,35

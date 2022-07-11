@@ -1,0 +1,24 @@
+neutrinos
+2,0,0,0,0,3
+# yy
+# model param goes HERE
+2*rr
+# rr
+1.0
+#
+#obj function
+BC*(yy - ydata)**2 + (rr - tt)*(rr - tt)
+#
+#states
+yy
+rr
+# PARAMETERS
+# model param goes HERE
+# control names (not now)
+# data
+BC
+ydata
+tt
+#
+#stimuli (GONE)
+#noise (not now)
