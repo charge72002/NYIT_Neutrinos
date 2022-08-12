@@ -9,9 +9,9 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 #ipopt .dat --> plotting code .txt
-pred = np.loadtxt('P1z_IC1_beta30.txt')
+pred = np.loadtxt('Mary_3beam_regular/P1z_IC1_beta28.txt')
 #forward integration output
-meas = np.loadtxt('P1zA_.txt')
+meas = np.loadtxt('Mary_3beam_regular/P1zA_.txt')
 
 ### INTERPOLATE
 chunk = 3000
